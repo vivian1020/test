@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Created by liujw on 2016/8/15.
  * 将输入的参数转化为int型元素

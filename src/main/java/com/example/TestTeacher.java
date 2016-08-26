@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Created by liujw on 2016/8/12.
  */
@@ -54,7 +56,7 @@ class Student extends Person {
 
 public class TestTeacher {
     public static void main(String[] args) {
-        Person p1 = new Person("A");
+        Person p1 = new Person("com.example.A");
         Person p2 = new Person("B", "shanghai");
         Student s1 = new Student("C", "S1");
         Student s2 = new Student("C", "shanghai", "S2");

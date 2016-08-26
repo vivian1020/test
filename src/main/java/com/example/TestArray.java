@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Created by liujw on 2016/8/15.
  * 动态初始化
@@ -22,10 +24,10 @@ public class TestArray {
         days[2] = new Date(3, 4, 2004);
 
         /*int a[] = {3, 9, 8};
-        Date days[] = {
-                new Date(1, 4, 2004),
-                new Date(2, 4, 2004),
-                new Date(3, 4, 2004)
+        com.example.Date days[] = {
+                new com.example.Date(1, 4, 2004),
+                new com.example.Date(2, 4, 2004),
+                new com.example.Date(3, 4, 2004)
         };*/
 
     }

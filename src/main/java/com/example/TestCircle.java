@@ -1,3 +1,5 @@
+package com.example;
+
 import com.bjsxt.Point;
 /**
  * Created by liujw on 2016/8/11.

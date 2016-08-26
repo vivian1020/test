@@ -1,0 +1,3 @@
+com.classloader.com.example.Student
+setName
+play
