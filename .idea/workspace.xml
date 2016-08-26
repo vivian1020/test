@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec01be6d-9d00-4d8b-8b8b-15c98ca0de37" name="默认的" comment="Add TestSet">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/reflection.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/NumSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/NumSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestCircle.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestCircle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestDateSort.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestDateSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestEx.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestEx.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestInherit.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestInherit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestTeacher.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestTeacher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/TestToString.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/TestToString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Valuable.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/Valuable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/commonClass/TestMath.class" afterPath="$PROJECT_DIR$/target/classes/com/commonClass/TestMath.class" />
+    <list default="true" id="ec01be6d-9d00-4d8b-8b8b-15c98ca0de37" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -125,7 +112,7 @@
       <file leaf-file-name="TestHashCode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/collection/TestHashCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.097323604">
+            <state vertical-scroll-proportion="0.37704918">
               <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="e#312#313#0" expanded="true" />
@@ -386,66 +373,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collection" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -972,7 +899,7 @@
       <workItem from="1471863388992" duration="1952000" />
       <workItem from="1471947829734" duration="6972000" />
       <workItem from="1472031825147" duration="1225000" />
-      <workItem from="1472087211786" duration="20996000" />
+      <workItem from="1472087211786" duration="21841000" />
     </task>
     <task id="LOCAL-00001" summary="Test change">
       <created>1471340554845</created>
@@ -1022,11 +949,17 @@
       <option name="project" value="LOCAL" />
       <updated>1472201721172</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add TestSet">
+      <created>1472202304264</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1472202304264</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147382000" />
+    <option name="totallyTimeSpent" value="148227000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1051,7 +984,7 @@
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14411248" sideWeight="0.41347626" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="版本控制" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22671354" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41300526" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="设计师" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1112,14 +1045,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test change" />
-    <MESSAGE value="Add TestSet" />
     <MESSAGE value="Add TestMap" />
     <MESSAGE value="Add Thread" />
     <MESSAGE value="Add TestSync" />
     <MESSAGE value="Add TestNetwork" />
     <MESSAGE value="Add TestIo" />
     <MESSAGE value="Add TestSet，TestList, TestHashCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add TestSet，TestList, TestHashCode" />
+    <MESSAGE value="Add TestSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TestSet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1532,7 +1465,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/collection/TestHashCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.097323604">
+        <state vertical-scroll-proportion="0.37704918">
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="e#312#313#0" expanded="true" />
