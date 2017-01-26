@@ -3,8 +3,7 @@ package com.ljwjava.commonClass;
  * Created by liujw on 2016/8/16.
  */
 
-import java.io.File;
-
+import java.io.*;
 public class FileList {
     public static void main(String[] args) {
         File f = new File("d:/A");

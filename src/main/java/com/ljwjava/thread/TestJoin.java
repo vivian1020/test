@@ -17,7 +17,6 @@ public class TestJoin {
         }
     }
 }
-
 class MyThread2 extends Thread {
     MyThread2(String s) {
         super(s); //调用父类的构造方法

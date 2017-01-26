@@ -68,7 +68,6 @@ class Producer extends Thread {
         }
     }
 }
-
 class Consumer extends Thread {
     Stack1 s;
     public Consumer(Stack1 s) {

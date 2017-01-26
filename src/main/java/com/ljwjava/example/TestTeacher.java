@@ -37,21 +37,21 @@ class Student extends Person {
     }
 }
 
-class Teacher extends Person {
-    private String capital;
+ class Teacher extends Person {
+     private String capital;
 
-    Teacher(String name, String capital) {
-        this(name, "beijing", capital);
-    }
+     Teacher(String name, String capital) {
+         this(name, "beijing", capital);
+     }
 
-    Teacher(String n, String l, String capital) {
-        super(n, l);
-        this.capital = capital;
-    }
+     Teacher(String n, String l, String capital) {
+         super(n, l);
+         this.capital = capital;
+     }
 
-    public String info() {
-        return super.info() + "capital: " + capital;
-    }
+     public String info() {
+         return super.info() + "capital: " + capital;
+     }
 }
 
 public class TestTeacher {

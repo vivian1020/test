@@ -31,7 +31,6 @@ class People {
     }
 
 }
-
 public class TestHashCode {
     public static void main(String[] args) {
         People p1 = new People("Jack", 12);

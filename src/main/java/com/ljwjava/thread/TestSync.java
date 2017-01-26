@@ -18,7 +18,6 @@ public class TestSync implements Runnable{
         timer.add(Thread.currentThread().getName());//取得当前线程对象的名字
     }
 }
-
 class Timer {
     private static int num = 0;
     public void add(String name) {

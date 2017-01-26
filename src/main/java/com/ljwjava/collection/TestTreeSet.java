@@ -17,18 +17,16 @@ class Parent implements Comparable {
         return age>o1.age?1:age<o1.age?-1:0;
     }
 }
-
-class Child1 extends Parent {
-   public Child1(){
-       super(3);
-   }
-   public int compareTo(Object o){
-       System.out.println("method of child");
-       Child1 o1 = (Child1)o;
-       return 1;
-   }
+ class Child1 extends Parent {
+    public Child1(){
+        super(3);
+    }
+    public int compareTo(Object o){
+        System.out.println("method of child");
+        Child1 o1 = (Child1)o;
+        return 1;
+    }
 }
-
 public class TestTreeSet{
     public static void main(String[] args) {
         TreeSet set = new TreeSet();

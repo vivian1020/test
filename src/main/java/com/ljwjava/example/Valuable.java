@@ -14,7 +14,6 @@ interface Protectable{
 interface A extends Protectable {
     void m();
 }
-
 abstract class Animal {
     private String name;
 

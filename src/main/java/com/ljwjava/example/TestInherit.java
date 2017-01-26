@@ -21,7 +21,6 @@ class ChildClass extends FatherClass {
         System.out.println(super.value);
     }
 }
-
 public class TestInherit {
     public static void main(String[] args) {
         ChildClass cc = new ChildClass();

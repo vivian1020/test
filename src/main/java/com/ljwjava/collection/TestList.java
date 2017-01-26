@@ -1,8 +1,6 @@
 package com.ljwjava.collection;
 
-import java.util.Iterator;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 /**
  * Created by liujw on 2016/8/26.

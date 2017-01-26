@@ -12,7 +12,6 @@ class Date {
         day = d;
     }
 }
-
 public class TestArray {
     public static void main(String[] args) {
          int a[];
