@@ -1,9 +1,6 @@
 package com.ljwjava.bjsxt;
 
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.*;
 
 /**
  * 多线程模拟实现生产者/消费者模型
@@ -41,7 +38,6 @@ public class BlockingQueueTest {
                     System.out.println("生产者准备生产苹果"+instance);
                     basket.produe();
                     System.out.println("生产苹果完毕"+instance);
-                    System.out.println("test");
                     Thread.sleep(300);
                 }
             }catch (InterruptedException e){

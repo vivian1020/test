@@ -29,7 +29,7 @@ public class CompletionServiceDemo {
         CompletionService<Integer> completionService = new ExecutorCompletionService<Integer>(pool);
         try {
             for (int i = 0; i < 10; i++) {
-                completionService.submit(new CompletionServiceDemo.Task(i));
+                completionService.submit(new Task(i));
             }
             for (int i = 0; i < 10; i++) {
                 System.out.println(completionService.take().get());

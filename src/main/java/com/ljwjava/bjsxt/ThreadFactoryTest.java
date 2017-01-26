@@ -18,15 +18,15 @@ import java.util.concurrent.ThreadFactory;
         }
     }
 
-class DaemonThreadFactory implements ThreadFactory{
+    class DaemonThreadFactory implements ThreadFactory{
 
-    @Override
-    public Thread newThread(Runnable r) {
-        Thread t = new Thread(r);
-        t.setDaemon(true);
-        return t;
+        @Override
+        public Thread newThread(Runnable r) {
+            Thread t = new Thread(r);
+            t.setDaemon(true);
+            return t;
+        }
     }
-}
 
 public class ThreadFactoryTest{
     public static void main(String[] args) {
