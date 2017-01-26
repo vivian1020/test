@@ -41,6 +41,7 @@ public class BlockingQueueTest {
                     System.out.println("生产者准备生产苹果"+instance);
                     basket.produe();
                     System.out.println("生产苹果完毕"+instance);
+                    System.out.println("test");
                     Thread.sleep(300);
                 }
             }catch (InterruptedException e){
